@@ -1,0 +1,6 @@
+{
+  "task": "Summarize the release status.",
+  "expected": "Release is planned for Friday. QA is still pending. Do not claim it shipped.",
+  "baseline": "The release is planned for Friday; QA is pending.",
+  "candidate": "The release shipped Friday and passed QA."
+}
